@@ -24,4 +24,3 @@ ratkaisu = Solution()
 lista = ratkaisu.twoSum(nums, target)
 
 print(lista)
-uyes
